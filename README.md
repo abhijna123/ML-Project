@@ -9,14 +9,14 @@ This project analyzes arrest data in Pittsburgh from 2020–2023, aiming to unco
 
 
 ## Project Structure
-- `EDA_and_Visualization.ipynb`: Explores the arrest dataset using charts, maps, and summary statistics.
+- `EDA_Visualization.ipynb`: Explores the arrest dataset using charts, maps, and summary statistics.
 - `Modeling.ipynb`: Contains full data preprocessing, classification, clustering, and fairness analysis.
 - `requirements.txt`: Lists Python packages required to run this project.
 - `Input CSV file (arrest_data_2020_2023_1.csv) and geo-boundary file (pittsburghpaneighborhoods.geojson)
 
 ## Notebooks Overview
 
-### 1. `eda_visualization.ipynb`
+### 1. `EDA_Visualization.ipynb`
 - Exploratory data analysis on arrest trends
 - Temporal and demographic breakdown
 
@@ -58,7 +58,7 @@ jupyter notebook
 ```
 
 Then open:
-- `EDA_and_Visualization.ipynb` for exploratory data analysis
+- `EDA_Visualization.ipynb` for exploratory data analysis
 - `modeling.ipynb` for classification, clustering, and fairness evaluation
 
 ## Dataset Notes
