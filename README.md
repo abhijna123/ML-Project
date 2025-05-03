@@ -34,8 +34,8 @@ This project analyzes arrest data in Pittsburgh from 2020–2023, aiming to unco
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+git clone https://github.com/abhijna123/ML-Project.git
 ```
 
 2. **(Optional) Create a virtual environment**
